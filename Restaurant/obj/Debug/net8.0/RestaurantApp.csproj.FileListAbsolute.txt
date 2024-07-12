@@ -1,0 +1,14 @@
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\bin\Debug\net8.0\RestaurantApp.exe
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\bin\Debug\net8.0\RestaurantApp.deps.json
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\bin\Debug\net8.0\RestaurantApp.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\bin\Debug\net8.0\RestaurantApp.dll
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\bin\Debug\net8.0\RestaurantApp.pdb
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\RestaurantApp.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\RestaurantApp.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\RestaurantApp.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\RestaurantApp.dll
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\refint\RestaurantApp.dll
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\RestaurantApp.pdb
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\RestaurantApp.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\C#\Restaurant\Restaurant\obj\Debug\net8.0\ref\RestaurantApp.dll

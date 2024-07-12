@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\restaurant\\restaurant\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\restaurant\\restaurant\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\restaurant\\restaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\restaurant\\restaurant\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\restaurant\\restaurant\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448175A4-3DAB-4CCB-ADC8-54E0490FE063}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Restaurant\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:29:51.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Order.cs",
+              "RelativeToolTip": "Restaurant\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:27:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Dish.cs",
+              "RelativeToolTip": "Restaurant\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:23:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Category.cs",
+              "RelativeToolTip": "Restaurant\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:21:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Models\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Restaurant\\Restaurant\\Models\\Program.cs",
+              "RelativeToolTip": "Restaurant\\Models\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:21:00.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
